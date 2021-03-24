@@ -1,12 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
+import Navabar from './components/Navbar'
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello World!!!</h1>
-    </div>
+    <>
+    <Router>
+      <Navabar/>
+      <Switch>
+        <Route path="/" exact/>
+      </Switch>
+    </Router>
+      
+    </>
     
   );
 }
