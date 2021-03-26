@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Endless_Travel_APP_ReactJs/static/css/main.b1cf5422.chunk.css",
+    "main.js": "/Endless_Travel_APP_ReactJs/static/js/main.fa267586.chunk.js",
+    "main.js.map": "/Endless_Travel_APP_ReactJs/static/js/main.fa267586.chunk.js.map",
+    "runtime-main.js": "/Endless_Travel_APP_ReactJs/static/js/runtime-main.1e26d5ae.js",
+    "runtime-main.js.map": "/Endless_Travel_APP_ReactJs/static/js/runtime-main.1e26d5ae.js.map",
+    "static/js/2.deb06265.chunk.js": "/Endless_Travel_APP_ReactJs/static/js/2.deb06265.chunk.js",
+    "static/js/2.deb06265.chunk.js.map": "/Endless_Travel_APP_ReactJs/static/js/2.deb06265.chunk.js.map",
+    "static/js/3.24710139.chunk.js": "/Endless_Travel_APP_ReactJs/static/js/3.24710139.chunk.js",
+    "static/js/3.24710139.chunk.js.map": "/Endless_Travel_APP_ReactJs/static/js/3.24710139.chunk.js.map",
+    "index.html": "/Endless_Travel_APP_ReactJs/index.html",
+    "static/css/main.b1cf5422.chunk.css.map": "/Endless_Travel_APP_ReactJs/static/css/main.b1cf5422.chunk.css.map",
+    "static/js/2.deb06265.chunk.js.LICENSE.txt": "/Endless_Travel_APP_ReactJs/static/js/2.deb06265.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Endless_Travel_APP_ReactJs/static/media/img-4.a31875b7.jpg",
+    "static/media/HeroSection.css": "/Endless_Travel_APP_ReactJs/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e26d5ae.js",
+    "static/js/2.deb06265.chunk.js",
+    "static/css/main.b1cf5422.chunk.css",
+    "static/js/main.fa267586.chunk.js"
+  ]
+}
